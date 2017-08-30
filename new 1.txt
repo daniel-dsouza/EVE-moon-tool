@@ -1,0 +1,138 @@
+BQ0-UU I - Moon 1
+  Chromite    0.866299986839
+  Pollucite    0.13369999826
+BQ0-UU III - Moon 1
+  Arkonor    0.13369999826
+  Sperrylite    0.866299986839
+BQ0-UU IV - Moon 1
+  Sylvite    0.13369999826
+  Vanadinite    0.866299986839
+BQ0-UU V - Moon 1
+  Euxenite    0.13369999826
+  Monazite    0.13369999826
+  Zircon    0.732599973679
+BQ0-UU V - Moon 2
+  Cobaltite    0.13369999826
+  Plagioclase    0.598900020123
+  Sperrylite    0.13369999826
+  Sylvite    0.13369999826
+BQ0-UU V - Moon 3
+  Ytterbite    0.13369999826
+  Zeolites    0.866299986839
+BQ0-UU V - Moon 4
+  Bitumens    0.13369999826
+  Ytterbite    0.866299986839
+BQ0-UU V - Moon 5
+  Bitumens    0.13369999826
+  Spodumain    0.732599973679
+  Zircon    0.13369999826
+BQ0-UU V - Moon 6
+  Bitumens    0.13369999826
+  Sperrylite    0.13369999826
+  Xenotime    0.732599973679
+BQ0-UU V - Moon 7
+  Arkonor    0.13369999826
+  Euxenite    0.866299986839
+BQ0-UU V - Moon 8
+  Carnotite    0.598900020123
+  Kernite    0.13369999826
+  Loparite    0.13369999826
+  Sylvite    0.13369999826
+BQ0-UU V - Moon 9
+  Bitumens    0.866299986839
+  Xenotime    0.13369999826
+BQ0-UU V - Moon 10
+  Cinnabar    0.13369999826
+  Ytterbite    0.13369999826
+  Zeolites    0.732599973679
+BQ0-UU V - Moon 11
+  Bitumens    0.13369999826
+  Carnotite    0.13369999826
+  Chromite    0.732599973679
+BQ0-UU V - Moon 12
+  Chromite    0.13369999826
+  Crokite    0.732599973679
+  Zircon    0.13369999826
+BQ0-UU V - Moon 13
+  Cobaltite    0.13369999826
+  Crokite    0.598900020123
+  Monazite    0.13369999826
+  Sylvite    0.13369999826
+BQ0-UU V - Moon 14
+  Cinnabar    0.13369999826
+  Cobaltite    0.598900020123
+  Coesite    0.13369999826
+  Loparite    0.13369999826
+BQ0-UU V - Moon 15
+  Monazite    0.13369999826
+  Sperrylite    0.732599973679
+  Zeolites    0.13369999826
+BQ0-UU VI - Moon 1
+  Euxenite    0.13369999826
+  Sperrylite    0.13369999826
+  Sylvite    0.732599973679
+BQ0-UU VI - Moon 2
+  Cinnabar    0.866299986839
+  Sperrylite    0.13369999826
+BQ0-UU VI - Moon 3
+  Jaspet    0.13369999826
+  Loparite    0.598900020123
+  Scheelite    0.13369999826
+  Sperrylite    0.13369999826
+BQ0-UU VI - Moon 4
+  Euxenite    0.13369999826
+  Pollucite    0.13369999826
+  Ytterbite    0.598900020123
+  Zeolites    0.13369999826
+BQ0-UU VI - Moon 5
+  Euxenite    0.13369999826
+  Gneiss    0.598900020123
+  Otavite    0.13369999826
+  Xenotime    0.13369999826
+BQ0-UU VI - Moon 6
+  Jaspet    0.13369999826
+  Loparite    0.598900020123
+  Otavite    0.13369999826
+  Sylvite    0.13369999826
+BQ0-UU VI - Moon 7
+  Crokite    0.13369999826
+  Titanite    0.866299986839
+BQ0-UU VI - Moon 8
+  Chromite    0.598900020123
+  Jaspet    0.13369999826
+  Monazite    0.13369999826
+  Sylvite    0.13369999826
+BQ0-UU VI - Moon 9
+  Chromite    0.13369999826
+  Omber    0.13369999826
+  Pollucite    0.732599973679
+BQ0-UU VI - Moon 10
+  Pollucite    0.13369999826
+  Scordite    0.13369999826
+  Sylvite    0.598900020123
+  Ytterbite    0.13369999826
+BQ0-UU VI - Moon 11
+  Sylvite    0.866299986839
+  Xenotime    0.13369999826
+BQ0-UU VI - Moon 12
+  Cinnabar    0.13369999826
+  Xenotime    0.866299986839
+BQ0-UU VI - Moon 13
+  Coesite    0.732599973679
+  Spodumain    0.13369999826
+  Xenotime    0.13369999826
+BQ0-UU VI - Moon 14
+  Monazite    0.732599973679
+  Plagioclase    0.13369999826
+  Zircon    0.13369999826
+BQ0-UU VI - Moon 15
+  Coesite    0.13369999826
+  Kernite    0.732599973679
+  Scheelite    0.13369999826
+BQ0-UU VI - Moon 16
+  Carnotite    0.13369999826
+  Loparite    0.13369999826
+  Otavite    0.732599973679
+BQ0-UU VI - Moon 17
+  Carnotite    0.866299986839
+  Euxenite    0.13369999826
